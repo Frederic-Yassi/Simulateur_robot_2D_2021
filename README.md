@@ -4,6 +4,8 @@ Application de bureau **PyQt5** qui modélise un robot plan à deux liaisons (pl
 
 Projet d’origine : 2021 (`ProjetRobotique`).
 
+![Capture de l’application : bras 2D, champs de saisie et commandes](assets/screenshot.png)
+
 ## Fonctionnalités
 
 - Tracé 2D du bras, des articulations, de la pince et de la cible
@@ -93,7 +95,7 @@ Les menus **Fichier** et **Aide** sont présents mais sans actions.
 ```text
 .
 ├── cliquez-ici.py       # Point d’entrée, interface et logique
-├── assets/              # Icônes de l’interface (.ico)
+├── assets/              # Icônes de l’interface (.ico) et capture README
 ├── Package/
 │   └── fonctions.py     # Matrices de passage et changement de repère
 └── README.md
